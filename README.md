@@ -2,8 +2,8 @@
 
 - 🔭 Software Architecture | Fullstack Developer | Tech Lead 
 
- - Dedication to general knowledge, strategic vision, and strong analytical skills. Efficient in identifying the root cause of problems, proposing solutions, and bringing technical quality to decision-making. Effective communication with teams to ensure good delivery of results. Over 15 years of experience in web system development, planning, and architecture, during which I have had the opportunity to work with various management and organizational models.
-- As a Software Architect, I assist teams by guiding and supporting stakeholders in making decisions related to the development of new features and maintenance of existing ones. Currently, I work with the agile model, in which Scrum points and guides us through the development process.
+ - 😎 Dedication to general knowledge, strategic vision, and strong analytical skills. Efficient in identifying the root cause of problems, proposing solutions, and bringing technical quality to decision-making. Effective communication with teams to ensure good delivery of results. Over 15 years of experience in web system development, planning, and architecture, during which I have had the opportunity to work with various management and organizational models.
+      As a Software Architect, I assist teams by guiding and supporting stakeholders in making decisions related to the development of new features and maintenance of existing ones. Currently, I work with the agile model, in which Scrum points and guides us through the development process.
 
  <div>
   <a href="https://github.com/rcngo">
