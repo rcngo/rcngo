@@ -1,8 +1,6 @@
 ## Olá meu nome é Rafael Nascimento
 
-- 🔭 Sou desenvolvedor Fullstack, e hoje atuo como Tech Lead
-- 🌱 Estudando sobre Microserviços
-
+- 🔭 Software Architecture | Fullstack Developer | Tech Lead 
 
  <div>
   <a href="https://github.com/rcngo">
