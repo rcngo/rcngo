@@ -171,9 +171,8 @@ Exploring architectures that combine LLMs, RAG, agents, tools, memory and model-
 
 ## Education & Continuous Learning
 
-- MBA — Software Architecture
-- MBA — Solution Architecture
-- MBA — Software Engineering with AI (Full Cycle)
+- MBA — Software & Solutions Architecture (XP Educação)
+- MBA — Software Engineering with AI (Full Cycle, in progress)
 
 ---
 
