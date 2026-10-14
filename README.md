@@ -37,7 +37,6 @@ My current focus is expanding traditional software engineering practices into **
 | [**design-docs-webhooks-com-ia**](https://github.com/rcngo/design-docs-webhooks-com-ia) | From a 55-minute meeting transcript to PRD, RFC, FDD and 7 ADRs, every claim traced to a timestamp or a real file, with automated anti-hallucination checks |
 | [**prompt-optimization-langsmith-eval**](https://github.com/rcngo/prompt-optimization-langsmith-eval) | Prompt refactoring measured with 5 LLM-as-Judge metrics on LangSmith; reports both runs, not the best one |
 | [**rag-pdf-langchain-pgvector**](https://github.com/rcngo/rag-pdf-langchain-pgvector) | RAG pipeline: PDF ingestion into PostgreSQL + pgvector and grounded Q&A via LangChain LCEL |
-| [**poc-apple-pay**](https://github.com/rcngo/poc-apple-pay) | Apple Pay integration with server-to-server merchant validation in PHP |
 
 ---
 
