@@ -8,6 +8,8 @@
 
 I design and evolve software architectures that balance **business goals, engineering quality, scalability and long-term maintainability**.
 
+🇧🇷 Arquiteto de Software e Tech Lead · IA aplicada à Engenharia de Software · Catalão, GO, Brasil
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rcngo)
 [![GitHub](https://img.shields.io/badge/GitHub-rcngo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rcngo)
 
@@ -22,6 +24,20 @@ Software Architect and Technical Leader with **19+ years of experience** in soft
 I work at the intersection of **software architecture, hands-on engineering and technical strategy**, helping teams make better architectural decisions, modernize platforms and build systems that can evolve safely over time.
 
 My current focus is expanding traditional software engineering practices into **AI-driven and agentic architectures**, combining proven engineering fundamentals with LLMs, RAG, AI Agents and the Model Context Protocol.
+
+> Most of my work lives in private repositories for the companies I serve. The projects below are the public side of it.
+
+---
+
+## Featured Projects
+
+| Project | What it shows |
+|---|---|
+| [**fluxo-nfs-e-automatico-brasil**](https://github.com/rcngo/fluxo-nfs-e-automatico-brasil) | AI reads NFS-e requests from e-mail/WhatsApp; **deterministic rules decide** whether to issue, ask or escalate. LLM as a reader, never as the decision-maker. Node.js · n8n · Postgres · Anthropic · NFE.io |
+| [**design-docs-webhooks-com-ia**](https://github.com/rcngo/design-docs-webhooks-com-ia) | From a 55-minute meeting transcript to PRD, RFC, FDD and 7 ADRs, every claim traced to a timestamp or a real file, with automated anti-hallucination checks |
+| [**prompt-optimization-langsmith-eval**](https://github.com/rcngo/prompt-optimization-langsmith-eval) | Prompt refactoring measured with 5 LLM-as-Judge metrics on LangSmith; reports both runs, not the best one |
+| [**rag-pdf-langchain-pgvector**](https://github.com/rcngo/rag-pdf-langchain-pgvector) | RAG pipeline: PDF ingestion into PostgreSQL + pgvector and grounded Q&A via LangChain LCEL |
+| [**poc-apple-pay**](https://github.com/rcngo/poc-apple-pay) | Apple Pay integration with server-to-server merchant validation in PHP |
 
 ---
 
@@ -154,37 +170,11 @@ Exploring architectures that combine LLMs, RAG, agents, tools, memory and model-
 
 ---
 
-## Current Focus
-
-```text
-Software Architecture
-Staff-Level Engineering
-Technical Leadership
-Distributed Systems
-AI Agents
-RAG Architectures
-Model Context Protocol
-AI-Driven SDLC
-Engineering Governance
-```
-
----
-
 ## Education & Continuous Learning
 
 - MBA — Software Architecture
 - MBA — Solution Architecture
-- Continuous study in AI applied to Software Engineering
-
----
-
-## GitHub Activity
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=rcngo&show_icons=true&hide_title=true&hide_border=true&include_all_commits=true&count_private=true" alt="Rafael's GitHub stats" />
-
-</div>
+- MBA — Software Engineering with AI (Full Cycle)
 
 ---
 
